@@ -1,16 +1,16 @@
-# walkie_share
+## Walkie-Talkie Button Widget
+  The Walkie-Talkie Button Widget is a custom-designed button that resembles a walkie-talkie. 
+  It provides haptic feedback and plays sound effects when pressed and released.
 
-A new Flutter project.
+## Features
+  Interactive Design: Mimics the appearance of a walkie-talkie button.
+  Haptic Feedback: Provides tactile feedback when pressed down.
+  Sound Effects: Plays walkie-talkie sounds when pressed and released.
 
-## Getting Started
+## Screenshots
+![Screenshot_2024-04-04-11-12-23-438_com example walkie_share](https://github.com/Ankit180898/walkie_share/assets/48925155/31db0923-09ce-45b3-9d7d-232b50da68b9)
+![Screenshot_2024-04-04-11-11-08-271_com example walkie_share](https://github.com/Ankit180898/walkie_share/assets/48925155/a58034e7-813c-49fa-b0b6-30f43b3582a2)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Get Started
+ - Clone the repository.
+ - Run flutter run -d chrome to launch the website.
